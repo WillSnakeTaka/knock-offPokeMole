@@ -7,4 +7,4 @@ Stolen codes to put up a testing mole game that is 70% working.
 4) it isn’t total random, cause I assigned fake moles to specific grass space. 
 
 testing on replyit
-https://fry.himitsuhimitsun.repl.co
+https://pikachu.gxugzemtaka.repl.co
