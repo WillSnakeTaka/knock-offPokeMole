@@ -7,7 +7,7 @@ Stolen codes to put up a testing mole game that is 70% working.
 4) it isn’t total random, cause I assigned fake moles to specific grass space. 
 
 testing on Itchio:
-https://gavtaka.itch.io/pikapikamole
+https://www.mysteppe.com/2022/10/10/my-first-indie-game/
 
 Newest version: 
 https://www.mysteppe.com/2022/12/08/my-first-indie-game-2/
